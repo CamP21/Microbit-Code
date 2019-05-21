@@ -21,3 +21,7 @@ Reaction_Time:
 - After a random amount of time, an image of a target is displayed
 - User presses button A or button B
 - Displays number of milliseconds it took for the user to respond
+
+Night_Light:
+- Requires the use of a micro:bit and a photocell
+- Based on light level, lights up all LEDs
